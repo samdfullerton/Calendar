@@ -2,6 +2,8 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   line-height: 1;
+  background: bisque;
+  color: lightskyblue;
 }
 
 textarea{
@@ -16,24 +18,28 @@ textarea{
 .jumbotron {
   text-align: center;
   background-color: transparent;
-  color: black;
+  color: orange;
   border-radius: 0;
   border-bottom: 10px solid black;
 }
 
 .description{
   white-space: pre-wrap;
+  color: purple;
 }
 
 .time-block{
   text-align: center;
   border-radius: 15px;
+  color: black;
+
 }
 
 .row {
   white-space: pre-wrap;
   height: 80px;
   border-top: 1px solid white;;
+  background:
 }
 
 .hour {
